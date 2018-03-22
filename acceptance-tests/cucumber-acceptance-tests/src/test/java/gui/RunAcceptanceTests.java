@@ -26,7 +26,8 @@ import org.junit.runner.RunWith;
         strict = true,
         plugin = {
                 "com.github.kirlionik.cucumberallure.AllureReporter",
-                "html:target/cucumber-html-report"
+                "html:target/cucumber-html-report",
+                "json:target/cucumber.json"
         }, tags = {}
 )
 public class RunAcceptanceTests {
