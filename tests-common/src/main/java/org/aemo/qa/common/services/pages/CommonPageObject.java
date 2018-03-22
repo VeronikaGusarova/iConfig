@@ -24,6 +24,7 @@ public class CommonPageObject extends AbstractPageObject{
 //    }
 
     public Boolean isOpened(String pageUrl) throws URISyntaxException {
+        webdriverHelper.waitForPageUpdated();
         URI siteUri = new URI(driver.getCurrentUrl());
         return siteUri.getHost().equals(siteHost)
                 && siteUri.toString().endsWith(pageUrl);

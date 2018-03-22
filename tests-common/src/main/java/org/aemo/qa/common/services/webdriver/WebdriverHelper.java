@@ -100,7 +100,7 @@ public class WebdriverHelper {
     public void click(WebElement webElement) {
         long startTime = System.currentTimeMillis();
         try {
-            //waitForPageUpdated();
+            waitForPageUpdated();
             waitForElementToBeClickable(webElement);
             webElement.click();
             waitForPageUpdated();
