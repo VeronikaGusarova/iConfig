@@ -9,7 +9,7 @@ Feature: Filter projects in recents list - smoke test.
     And I fill Login and Password fields with correct credentials on Login page
     And I click button 'log in' on Login page
 
-  @createProject @Smoke @SeverityLevel.MAJOR
+  @createProject @Smoke @SeverityLevel.NORMAL
   Scenario Outline: Create a new project, check its status and presence in Recents
     Given  Page with url "!/dashboard" should be opened
     When I select "Offshore Oil and Gas" "asset type" on Dashboard page

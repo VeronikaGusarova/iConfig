@@ -1,6 +1,6 @@
-# NI Merchant Portal - Readme for QAs
+# iConfig - Readme
 This readme file is targeted for QA Automation engineers who is working on 
-Merchant Portal and contains information about acceptance tests.
+iConfig project and contains information about acceptance tests.
 
 ### Table of contents
 
