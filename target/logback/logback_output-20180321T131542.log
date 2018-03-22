@@ -1,0 +1,186 @@
+[[34mINFO [0;39m] [] 13:15:48.505 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Open login page
+[[39mDEBUG[0;39m] [] 13:15:48.515 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Opening url: http://localhost:8081/#!/login
+[[39mDEBUG[0;39m] [] 13:15:49.665 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 13:15:50.255 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Open_Page Execution_Time(ms):; 1740; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:15:50.255 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Set login as admin in SingIn form
+[[34mINFO [0;39m] [] 13:15:50.316 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 31; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:15:50.316 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 13:15:50.346 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:15:50.366 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 13:15:50.386 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:15:50.395 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 13:15:50.407 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 8; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:15:50.464 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:15:50.468 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 189; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:15:50.479 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:15:50.479 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 13:15:50.519 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:15:50.539 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 13:15:50.559 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:15:50.579 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 13:15:50.584 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 1; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:15:50.631 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:15:50.635 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 162; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:15:50.647 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 8; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:15:50.648 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:50.663 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:15:50.693 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:50.713 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:15:50.733 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 76; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:15:50.733 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:50.753 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:15:50.895 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 69; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:15:50.899 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 260; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:50.900 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 13:15:51.374 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Submit SignIn form
+[[34mINFO [0;39m] [] 13:15:51.388 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 11; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:51.389 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:51.403 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:51.904 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:51.970 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 45; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:52.474 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:52.526 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 32; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:53.028 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:53.058 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:53.562 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:53.612 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:54.112 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:54.162 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:54.669 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:54.717 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 21; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:55.219 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:55.269 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:55.770 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:55.820 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:56.320 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:56.370 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:56.872 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:56.922 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:57.423 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:57.475 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 32; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:57.977 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:58.027 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:58.534 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:58.584 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:58.584 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:15:58.654 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 50; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:15:58.664 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 7266; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:58.664 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 13:15:59.038 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 7654; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:59.038 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[39mDEBUG[0;39m] [] 13:15:59.401 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[39mDEBUG[0;39m] [] 13:15:59.791 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: page-title 
+[[34mINFO [0;39m] [] 13:15:59.821 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:15:59.861 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //button[contains(text(),'select asset type')] 
+[[34mINFO [0;39m] [] 13:15:59.891 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:16:00.011 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:16:00.011 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 13:16:00.032 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:16:00.059 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 13:16:00.079 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:16:00.099 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 78; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:16:00.099 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 13:16:00.119 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:16:00.171 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:16:00.175 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 190; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:16:00.176 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .logout-menu li 
+[[34mINFO [0;39m] [] 13:16:00.200 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 19; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:16:00.214 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 8; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:16:00.274 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 40; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:16:00.322 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:16:00.325 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 122; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:16:00.328 [TestCaseId:] [Scenario:
+                ] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Driver quit
+[[34mINFO [0;39m] [] 13:16:01.288 [TestCaseId:] [Scenario:
+                ] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Driver_Quit Execution_Time(ms):; 959; Page_URL:; ;

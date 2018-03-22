@@ -1,0 +1,950 @@
+[[34mINFO [0;39m] [] 13:53:42.033 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Open login page
+[[39mDEBUG[0;39m] [] 13:53:42.043 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Opening url: http://localhost:8081/#!/login
+[[39mDEBUG[0;39m] [] 13:53:43.252 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 13:53:43.834 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Open_Page Execution_Time(ms):; 1791; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:43.834 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Set login as admin in SingIn form
+[[34mINFO [0;39m] [] 13:53:43.884 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:43.884 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 13:53:43.914 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:43.936 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 13:53:43.956 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:43.976 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 13:53:43.981 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 1; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:44.038 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 8; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:44.044 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 195; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:44.059 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:44.060 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 13:53:44.083 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 18; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:44.106 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 13:53:44.126 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:44.146 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 13:53:44.150 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 1; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:44.197 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:44.200 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 153; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:44.207 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 4; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:44.208 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:44.242 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:44.262 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:44.292 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:44.312 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 95; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:44.312 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:44.323 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:44.522 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 137; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:44.534 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 322; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:44.535 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 13:53:44.989 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Submit SignIn form
+[[34mINFO [0;39m] [] 13:53:45.003 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 11; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:45.004 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:45.035 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 21; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:45.540 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:45.581 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 31; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:46.081 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:46.121 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:46.628 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:46.658 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:47.159 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:47.189 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:47.698 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:47.738 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:48.238 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:48.258 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:48.765 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:48.815 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:49.315 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:49.365 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:49.871 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:49.921 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:50.427 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:50.457 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:50.962 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:51.012 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:51.517 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:51.557 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:52.067 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:52.121 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 21; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:52.121 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:52.151 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:52.161 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 7148; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:52.161 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 13:53:52.508 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 7509; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:52.508 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[39mDEBUG[0;39m] [] 13:53:52.860 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[39mDEBUG[0;39m] [] 13:53:53.270 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: page-title 
+[[34mINFO [0;39m] [] 13:53:53.300 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:53.340 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select asset type']//button 
+[[34mINFO [0;39m] [] 13:53:53.370 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:53.381 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select library']//button 
+[[34mINFO [0;39m] [] 13:53:53.417 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 15; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:53.437 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select region']//button 
+[[34mINFO [0;39m] [] 13:53:53.467 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:53.477 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select location']//button 
+[[34mINFO [0;39m] [] 13:53:53.507 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:53.517 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__title-input 
+[[34mINFO [0;39m] [] 13:53:53.547 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:53.567 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__description-input 
+[[34mINFO [0;39m] [] 13:53:53.597 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:53.607 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: system-icons 
+[[34mINFO [0;39m] [] 13:53:53.637 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:53.647 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select asset type']//button 
+[[34mINFO [0;39m] [] 13:53:53.667 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:53.697 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:53.737 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:53.792 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 9; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:53.797 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 125; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:53.798 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //ul[@class = 'dropdown-menu']//a[text()='Offshore Oil and Gas'] 
+[[34mINFO [0;39m] [] 13:53:53.842 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 40; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:53.868 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:53.909 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 31; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:53.948 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:53.952 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 106; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:53.953 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select asset type']//button 
+[[34mINFO [0;39m] [] 13:53:53.964 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:53.970 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select library']//button 
+[[34mINFO [0;39m] [] 13:53:54.001 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 8; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.011 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select region']//button 
+[[34mINFO [0;39m] [] 13:53:54.031 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.041 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select location']//button 
+[[34mINFO [0;39m] [] 13:53:54.061 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.071 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: system-icons 
+[[34mINFO [0;39m] [] 13:53:54.091 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.101 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__title-input 
+[[34mINFO [0;39m] [] 13:53:54.121 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.131 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__description-input 
+[[34mINFO [0;39m] [] 13:53:54.151 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.161 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //div[contains(@ng-repeat, 'system')]/span[text()='oil dehydration']/.. 
+[[34mINFO [0;39m] [] 13:53:54.191 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:54.221 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:54.261 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:54.312 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:54.316 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 121; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.317 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //div[contains(@ng-repeat, 'system')]/span[text()='oil dehydration']/.. 
+[[34mINFO [0;39m] [] 13:53:54.328 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.333 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select asset type']//button 
+[[34mINFO [0;39m] [] 13:53:54.352 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.362 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select library']//button 
+[[34mINFO [0;39m] [] 13:53:54.382 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.383 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select region']//button 
+[[34mINFO [0;39m] [] 13:53:54.393 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.397 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select location']//button 
+[[34mINFO [0;39m] [] 13:53:54.427 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.437 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: system-icons 
+[[34mINFO [0;39m] [] 13:53:54.457 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.467 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__title-input 
+[[34mINFO [0;39m] [] 13:53:54.472 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 1; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.496 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__description-input 
+[[34mINFO [0;39m] [] 13:53:54.507 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.513 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select library']//button 
+[[34mINFO [0;39m] [] 13:53:54.544 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 21; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:54.574 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:54.614 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:54.655 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:54.659 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 112; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.660 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //ul[@class = 'dropdown-menu']//a[text()='Main Library'] 
+[[34mINFO [0;39m] [] 13:53:54.680 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 16; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:54.689 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:54.739 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 40; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:54.777 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:54.780 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 97; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.780 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select asset type']//button 
+[[34mINFO [0;39m] [] 13:53:54.792 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 9; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.798 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select library']//button 
+[[34mINFO [0;39m] [] 13:53:54.808 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.812 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select region']//button 
+[[34mINFO [0;39m] [] 13:53:54.846 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 23; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.856 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select location']//button 
+[[34mINFO [0;39m] [] 13:53:54.876 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.886 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: system-icons 
+[[34mINFO [0;39m] [] 13:53:54.906 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.916 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__title-input 
+[[34mINFO [0;39m] [] 13:53:54.936 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.946 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__description-input 
+[[34mINFO [0;39m] [] 13:53:54.966 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:54.976 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select region']//button 
+[[34mINFO [0;39m] [] 13:53:54.996 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:55.026 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:55.066 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:55.112 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 3; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:55.116 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 116; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:55.116 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //ul[@class = 'dropdown-menu']//a[text()='USA'] 
+[[34mINFO [0;39m] [] 13:53:55.132 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:55.173 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 31; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:55.233 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 50; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:55.296 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:55.299 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 164; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:55.300 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select asset type']//button 
+[[34mINFO [0;39m] [] 13:53:55.312 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 9; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:55.318 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select library']//button 
+[[34mINFO [0;39m] [] 13:53:55.329 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:55.353 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select region']//button 
+[[34mINFO [0;39m] [] 13:53:55.373 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:55.383 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select location']//button 
+[[34mINFO [0;39m] [] 13:53:55.388 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 1; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:55.393 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: system-icons 
+[[34mINFO [0;39m] [] 13:53:55.427 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 24; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:55.437 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__title-input 
+[[34mINFO [0;39m] [] 13:53:55.457 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:55.467 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__description-input 
+[[34mINFO [0;39m] [] 13:53:55.478 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:55.498 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select location']//button 
+[[34mINFO [0;39m] [] 13:53:55.518 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:55.548 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:55.588 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:55.635 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 3; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:55.645 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 118; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:55.645 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //ul[@class = 'dropdown-menu']//a[text()='Gulf of Mexico'] 
+[[34mINFO [0;39m] [] 13:53:55.685 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:55.715 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:55.755 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:55.801 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 3; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:55.805 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 117; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:55.805 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select asset type']//button 
+[[34mINFO [0;39m] [] 13:53:55.814 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:55.820 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select library']//button 
+[[34mINFO [0;39m] [] 13:53:55.828 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:55.852 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select region']//button 
+[[34mINFO [0;39m] [] 13:53:55.872 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:55.882 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select location']//button 
+[[34mINFO [0;39m] [] 13:53:55.893 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:55.913 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: system-icons 
+[[34mINFO [0;39m] [] 13:53:55.933 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:55.943 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__title-input 
+[[34mINFO [0;39m] [] 13:53:55.963 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:55.973 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__description-input 
+[[34mINFO [0;39m] [] 13:53:55.993 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:56.043 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:56.043 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 13:53:56.073 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:56.093 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 13:53:56.113 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:56.133 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 80; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:56.133 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 13:53:56.153 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:56.207 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:56.211 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 194; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:56.212 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .logout-menu li 
+[[34mINFO [0;39m] [] 13:53:56.247 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 25; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:56.277 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:56.311 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 21; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:56.361 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 14; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:56.365 [TestCaseId:] [Scenario:
+                Check availability of inputs when creating a new project on Dashboard page] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 114; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:56.369 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Open login page
+[[39mDEBUG[0;39m] [] 13:53:56.369 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Opening url: http://localhost:8081/#!/login
+[[39mDEBUG[0;39m] [] 13:53:56.736 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 13:53:57.150 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Open_Page Execution_Time(ms):; 781; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:57.150 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Set login as admin in SingIn form
+[[34mINFO [0;39m] [] 13:53:57.180 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:57.180 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 13:53:57.210 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:57.230 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 13:53:57.250 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:57.270 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 13:53:57.275 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 1; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:57.333 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:57.336 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 183; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:57.344 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 4; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:57.344 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 13:53:57.358 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 11; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:57.370 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 13:53:57.379 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:57.395 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 13:53:57.406 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 8; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:57.459 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:57.462 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 122; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:57.472 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:57.472 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:57.486 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 11; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:57.508 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:57.528 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:57.548 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 66; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:53:57.548 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:57.568 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:53:57.674 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 70; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:53:57.677 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 212; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:57.677 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 13:53:58.065 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Submit SignIn form
+[[34mINFO [0;39m] [] 13:53:58.095 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:58.095 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:58.115 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:58.617 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:58.647 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:59.152 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:59.202 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:53:59.709 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:53:59.749 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:00.249 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:54:00.299 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:00.799 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:54:00.819 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:01.325 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:54:01.355 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:01.860 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:54:01.890 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:02.390 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:54:02.394 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 1; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:02.914 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:54:02.954 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:03.457 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:54:03.510 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 43; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:04.014 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:54:04.034 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:04.539 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:54:04.559 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:05.062 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:54:05.082 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:05.586 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:54:05.616 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:05.616 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:54:05.646 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:05.656 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 7551; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:05.656 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 13:54:06.047 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 7972; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:06.047 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[39mDEBUG[0;39m] [] 13:54:06.418 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[39mDEBUG[0;39m] [] 13:54:06.814 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: page-title 
+[[34mINFO [0;39m] [] 13:54:06.844 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:06.864 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select asset type']//button 
+[[34mINFO [0;39m] [] 13:54:06.894 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:06.924 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:06.964 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.014 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.018 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 120; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:07.019 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //ul[@class = 'dropdown-menu']//a[text()='Offshore Oil and Gas'] 
+[[34mINFO [0;39m] [] 13:54:07.038 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 16; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.064 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.103 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 29; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.143 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.146 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 104; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:07.147 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //div[contains(@ng-repeat, 'system')]/span[text()='oil dehydration']/.. 
+[[34mINFO [0;39m] [] 13:54:07.163 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.170 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 4; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.214 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 34; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.257 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 8; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.263 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 95; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:07.264 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //div[contains(@ng-repeat, 'system')]/span[text()='oil dehydration']/.. 
+[[34mINFO [0;39m] [] 13:54:07.274 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:07.291 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select library']//button 
+[[34mINFO [0;39m] [] 13:54:07.331 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.372 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 21; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.395 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 19; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.451 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 2; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.455 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 120; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:07.455 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //ul[@class = 'dropdown-menu']//a[text()='Main Library'] 
+[[34mINFO [0;39m] [] 13:54:07.473 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 15; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.480 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 4; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.523 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 33; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.573 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.576 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 100; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:07.577 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select region']//button 
+[[34mINFO [0;39m] [] 13:54:07.594 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 13; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.600 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 4; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.641 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 31; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.688 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.698 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 94; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:07.698 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //ul[@class = 'dropdown-menu']//a[text()='USA'] 
+[[34mINFO [0;39m] [] 13:54:07.714 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.723 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.767 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 34; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.809 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.812 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 95; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:07.813 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select location']//button 
+[[34mINFO [0;39m] [] 13:54:07.830 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.837 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 4; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.884 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 37; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.929 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.933 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 99; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:07.933 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //ul[@class = 'dropdown-menu']//a[text()='Gulf of Mexico'] 
+[[34mINFO [0;39m] [] 13:54:07.964 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 11; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:07.994 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:08.035 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 21; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:08.086 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:08.090 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 122; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:08.101 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:08.102 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__title-input 
+[[34mINFO [0;39m] [] 13:54:08.117 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:08.138 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__title-input 
+[[34mINFO [0;39m] [] 13:54:08.168 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:08.188 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__title-input 
+[[34mINFO [0;39m] [] 13:54:08.193 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 1; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:08.290 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:08.293 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 199; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:08.317 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 14; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:08.317 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__description-input 
+[[34mINFO [0;39m] [] 13:54:08.333 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 13; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:08.347 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__description-input 
+[[34mINFO [0;39m] [] 13:54:08.356 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:08.374 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__description-input 
+[[34mINFO [0;39m] [] 13:54:08.383 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:08.473 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:08.475 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 178; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:08.485 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:08.486 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__create-button 
+[[34mINFO [0;39m] [] 13:54:08.505 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 14; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:08.525 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__create-button 
+[[34mINFO [0;39m] [] 13:54:08.537 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 9; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:08.553 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 63; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:08.553 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__create-button 
+[[34mINFO [0;39m] [] 13:54:08.563 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:08.716 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 99; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[34mINFO [0;39m] [] 13:54:08.720 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 240; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[39mDEBUG[0;39m] [] 13:54:08.721 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[39mDEBUG[0;39m] [] 13:54:09.149 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: page-title 
+[[34mINFO [0;39m] [] 13:54:09.169 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[34mINFO [0;39m] [] 13:54:09.219 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[39mDEBUG[0;39m] [] 13:54:09.219 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: save 
+[[34mINFO [0;39m] [] 13:54:09.249 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[39mDEBUG[0;39m] [] 13:54:09.269 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: save 
+[[34mINFO [0;39m] [] 13:54:09.289 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[34mINFO [0;39m] [] 13:54:09.309 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 80; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[39mDEBUG[0;39m] [] 13:54:09.309 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: save 
+[[34mINFO [0;39m] [] 13:54:09.329 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[34mINFO [0;39m] [] 13:54:09.393 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 18; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[34mINFO [0;39m] [] 13:54:09.401 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 204; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[39mDEBUG[0;39m] [] 13:54:09.409 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.cssSelector: .modal-content
+[[34mINFO [0;39m] [] 13:54:09.451 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 39; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[34mINFO [0;39m] [] 13:54:09.458 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[39mDEBUG[0;39m] [] 13:54:09.459 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-title 
+[[34mINFO [0;39m] [] 13:54:09.472 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 11; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[39mDEBUG[0;39m] [] 13:54:09.484 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-title 
+[[34mINFO [0;39m] [] 13:54:09.494 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[34mINFO [0;39m] [] 13:54:09.514 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 4; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[34mINFO [0;39m] [] 13:54:09.518 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - get_Text Execution_Time(ms):; 64; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[34mINFO [0;39m] [] 13:54:09.525 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 4; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[39mDEBUG[0;39m] [] 13:54:09.526 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-body 
+[[34mINFO [0;39m] [] 13:54:09.540 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 11; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[39mDEBUG[0;39m] [] 13:54:09.551 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-body 
+[[34mINFO [0;39m] [] 13:54:09.563 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[34mINFO [0;39m] [] 13:54:09.586 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[34mINFO [0;39m] [] 13:54:09.590 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - get_Text Execution_Time(ms):; 67; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[34mINFO [0;39m] [] 13:54:09.590 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.c.ModalWindow[0;39m - Close modal window by Ok button
+[[34mINFO [0;39m] [] 13:54:09.602 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 9; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[39mDEBUG[0;39m] [] 13:54:09.602 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-footer .ok 
+[[34mINFO [0;39m] [] 13:54:09.619 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[39mDEBUG[0;39m] [] 13:54:09.633 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-footer .ok 
+[[34mINFO [0;39m] [] 13:54:09.643 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[34mINFO [0;39m] [] 13:54:09.656 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 51; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[39mDEBUG[0;39m] [] 13:54:09.656 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-footer .ok 
+[[34mINFO [0;39m] [] 13:54:09.666 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[34mINFO [0;39m] [] 13:54:09.711 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[34mINFO [0;39m] [] 13:54:09.718 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 121; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[39mDEBUG[0;39m] [] 13:54:09.718 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 13:54:10.156 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[39mDEBUG[0;39m] [] 13:54:10.156 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: fa-home 
+[[34mINFO [0;39m] [] 13:54:10.186 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[39mDEBUG[0;39m] [] 13:54:10.206 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: fa-home 
+[[34mINFO [0;39m] [] 13:54:10.226 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[34mINFO [0;39m] [] 13:54:10.256 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 90; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[39mDEBUG[0;39m] [] 13:54:10.256 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: fa-home 
+[[34mINFO [0;39m] [] 13:54:10.276 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/project/4a9a2f2e-1eb9-487f-a621-eba985c41c49/questionnaire;
+[[34mINFO [0;39m] [] 13:54:10.359 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 15; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:10.362 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 233; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:10.364 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: label.filter[for='all-projects'] 
+[[34mINFO [0;39m] [] 13:54:10.380 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 13; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:10.387 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:10.430 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 33; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:10.475 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 11; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:10.477 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 95; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:10.478 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 13:54:10.493 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 11; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:10.890 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 13:54:10.910 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:11.170 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: label.filter[for='in-progress'] 
+[[34mINFO [0;39m] [] 13:54:11.200 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:11.230 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:11.280 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 40; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:11.327 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 2; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:11.330 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 127; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:11.330 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 13:54:11.339 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:11.583 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:11.583 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 13:54:11.633 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 40; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:11.653 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 13:54:11.683 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:11.703 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 110; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:11.703 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 13:54:11.723 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:11.762 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:11.769 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 209; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:54:11.770 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .logout-menu li 
+[[34mINFO [0;39m] [] 13:54:11.811 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 31; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:11.841 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:11.891 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 40; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 13:54:11.938 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 13; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 13:54:11.940 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 127; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 13:54:11.944 [TestCaseId:] [Scenario:
+                ] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Driver quit
+[[34mINFO [0;39m] [] 13:54:13.088 [TestCaseId:] [Scenario:
+                ] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Driver_Quit Execution_Time(ms):; 1144; Page_URL:; ;

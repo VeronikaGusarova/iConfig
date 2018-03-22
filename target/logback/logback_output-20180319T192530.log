@@ -1,0 +1,190 @@
+[[34mINFO [0;39m] [] 19:25:35.942 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.p.LoginPageObject[0;39m - Open login page
+[[39mDEBUG[0;39m] [] 19:25:35.953 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Opening url: http://localhost:8081/#!/login
+[[39mDEBUG[0;39m] [] 19:25:37.191 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 19:25:37.717 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Open_Page Execution_Time(ms):; 1763; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 19:25:37.718 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.p.LoginPageObject[0;39m - Set login as admin in SingIn form
+[[34mINFO [0;39m] [] 19:25:37.751 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 19:25:37.753 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 19:25:37.770 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 14; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 19:25:37.783 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 19:25:37.793 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 19:25:37.811 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 19:25:37.824 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 19:25:37.877 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 8; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 19:25:37.880 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 143; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 19:25:37.892 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 19:25:37.892 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 19:25:37.908 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 19:25:37.922 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 19:25:37.935 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 19:25:37.955 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 19:25:37.967 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 19:25:38.012 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 19:25:38.016 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 132; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 19:25:38.027 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 19:25:38.027 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:38.044 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 19:25:38.056 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:38.065 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 19:25:38.077 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 47; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 19:25:38.077 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:38.087 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 19:25:38.240 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 89; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 19:25:38.243 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 223; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:38.244 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 19:25:38.666 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.p.LoginPageObject[0;39m - Submit SignIn form
+[[34mINFO [0;39m] [] 19:25:38.675 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:38.675 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:38.688 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:39.189 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:39.230 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 29; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:39.730 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:39.764 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 25; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:40.265 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:40.295 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 22; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:40.795 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:40.827 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 24; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:41.327 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:41.367 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 27; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:41.869 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:41.901 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 22; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:42.402 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:42.438 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 26; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:42.939 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:42.975 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 24; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:43.475 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:43.508 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 23; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:44.009 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:44.021 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 8; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:44.521 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:44.548 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 18; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:45.049 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:45.079 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:45.579 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:45.607 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 19; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:46.107 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:46.160 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 40; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:46.161 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 19:25:46.184 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 18; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 19:25:46.188 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 7510; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:46.188 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 19:25:46.524 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 7854; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:46.525 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[39mDEBUG[0;39m] [] 19:25:46.872 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[39mDEBUG[0;39m] [] 19:25:47.235 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: page-title 
+[[34mINFO [0;39m] [] 19:25:47.250 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:47.278 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //button[@text()='Offshore Oil and Gas'] 
+[[34mINFO [0;39m] [] 19:25:47.295 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 13; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 19:25:47.321 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:47.322 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 19:25:47.337 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 11; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:47.351 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 19:25:47.361 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 19:25:47.372 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 47; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:47.373 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 19:25:47.382 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 19:25:47.428 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 19:25:47.433 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 117; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 19:25:47.433 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .logout-menu li 
+[[34mINFO [0;39m] [] 19:25:47.475 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 21; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 19:25:47.492 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 11; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 19:25:47.524 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 29; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 19:25:47.594 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 19; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 19:25:47.598 [TestCaseId:] [Scenario:
+                Create a new project] [36mo.a.q.c.g.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 120; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 19:25:47.601 [TestCaseId:] [Scenario:
+                ] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Driver quit
+[[34mINFO [0;39m] [] 19:25:48.593 [TestCaseId:] [Scenario:
+                ] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Driver_Quit Execution_Time(ms):; 992; Page_URL:; ;

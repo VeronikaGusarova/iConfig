@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1521217540230" stop="1521217559744" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Login page.</name>
+    <description type="text">As a user I want to sign up on the Login page;
+Dashboard page should be opened after sign up;
+Error should be shown in case of incorrect creds</description>
+    <test-cases>
+        <test-case start="1521217547729" stop="1521217559740" status="passed">
+            <name>Sign Up with correct credentials</name>
+            <title>Sign Up with correct credentials</title>
+            <description type="text"></description>
+            <steps>
+                <step start="1521217547746" stop="1521217549498" status="passed">
+                    <name>Given I open Login page</name>
+                    <title>Given I open Login page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1521217549498" stop="1521217551081" status="passed">
+                    <name>When I fill Login and Password fields with correct credentials on Login page</name>
+                    <title>When I fill Login and Password fields with correct credentials on Login page</title>
+                    <attachments>
+                        <attachment title="After submitting SignIn form with correct creds" source="ea103665-4262-4fbf-8446-26bc89b69709-attachment.png" type="image/png"/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start="1521217551082" stop="1521217559108" status="passed">
+                    <name>And I click button 'log in' on Login page</name>
+                    <title>And I click button 'log in' on Login page</title>
+                    <attachments>
+                        <attachment title="Error" source="dcfa0ba9-1658-4cc4-85c7-556c3e569738-attachment.png" type="image/png"/>
+                        <attachment title="After submitting SignIn form" source="f3fe6799-b791-4172-bc26-82ab958ca9ce-attachment.png" type="image/png"/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start="1521217559109" stop="1521217559738" status="passed">
+                    <name>Then Dashboard page should be opened</name>
+                    <title>Then Dashboard page should be opened</title>
+                    <attachments>
+                        <attachment title="Dashboard" source="fb9238cc-922a-4918-b217-660b78e316e8-attachment.png" type="image/png"/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="severity" value="critical"/>
+                <label name="story" value="Sign Up with correct credentials"/>
+                <label name="feature" value="Login page."/>
+                <label name="host" value="EPRUSARW1163"/>
+                <label name="thread" value="11956@EPRUSARW1163.main(1)"/>
+                <label name="framework" value="CucumberJVM"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="feature" value="Login page."/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

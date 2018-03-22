@@ -1,0 +1,9 @@
+gui\stepsDef\AccountCreationPageStepsDef.class
+gui\stepsDef\TermsAndConditionsStepsDef.class
+gui\configuration\AppConfig.class
+gui\stepsDef\CommonStepsDef.class
+gui\stepsDef\PrivacyPolicyStepsDef.class
+gui\RunAcceptanceTests.class
+gui\configuration\CucumberHooks.class
+gui\stepsDef\AbstractStepsDef.class
+gui\stepsDef\LoginPageStepsDef.class

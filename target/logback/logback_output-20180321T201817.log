@@ -1,0 +1,646 @@
+[[34mINFO [0;39m] [] 20:18:24.026 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Open login page
+[[39mDEBUG[0;39m] [] 20:18:24.036 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Opening url: http://localhost:8081/#!/login
+[[39mDEBUG[0;39m] [] 20:18:25.166 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 20:18:25.624 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Open_Page Execution_Time(ms):; 1588; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 20:18:25.625 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Set login as admin in SingIn form
+[[34mINFO [0;39m] [] 20:18:25.682 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 20:18:25.682 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 20:18:25.712 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 20:18:25.732 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 20:18:25.752 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 20:18:25.772 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 20:18:25.777 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 1; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 20:18:25.829 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 20:18:25.834 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 177; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 20:18:25.844 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 20:18:25.845 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 20:18:25.881 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 26; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 20:18:25.901 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 20:18:25.921 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 20:18:25.941 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 20:18:25.945 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 1; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 20:18:25.992 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 20:18:25.996 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 157; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 20:18:26.005 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 20:18:26.009 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:26.048 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 28; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 20:18:26.068 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:26.088 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 20:18:26.108 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 93; Page_URL:; http://localhost:8081/#!/login;
+[[39mDEBUG[0;39m] [] 20:18:26.108 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:26.128 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/login;
+[[34mINFO [0;39m] [] 20:18:26.270 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 80; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:26.274 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 274; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:26.275 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 20:18:26.755 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Submit SignIn form
+[[34mINFO [0;39m] [] 20:18:26.785 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:26.785 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:26.835 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 40; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:27.335 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:27.366 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:27.881 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:27.921 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:28.429 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:28.479 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:28.980 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:29.020 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:29.527 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:29.567 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:30.081 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:30.121 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:30.622 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:30.672 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:31.172 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:31.222 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:31.704 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:31.723 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 14; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:32.223 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:32.264 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 27; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:32.764 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:32.791 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 18; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:33.317 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:33.345 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 16; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:33.872 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:33.922 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:33.922 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 20:18:33.982 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 40; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:33.992 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 7197; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:33.992 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 20:18:34.323 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 7558; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:34.323 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[39mDEBUG[0;39m] [] 20:18:34.720 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select asset type']//button 
+[[34mINFO [0;39m] [] 20:18:34.750 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:34.780 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:34.840 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 50; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:34.896 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 8; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:34.901 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 146; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:34.902 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //ul[@class = 'dropdown-menu']//a[text()='Offshore Oil and Gas'] 
+[[34mINFO [0;39m] [] 20:18:34.924 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 17; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:34.936 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:34.983 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 37; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.022 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.024 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 98; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:35.025 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //div[contains(@ng-repeat, 'system')]/span[text()='oil dehydration']/.. 
+[[34mINFO [0;39m] [] 20:18:35.041 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 13; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.051 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.100 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 39; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.144 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.148 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 103; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:35.149 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //div[contains(@ng-repeat, 'system')]/span[text()='oil dehydration']/.. 
+[[34mINFO [0;39m] [] 20:18:35.158 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:35.163 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select library']//button 
+[[34mINFO [0;39m] [] 20:18:35.197 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 21; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.227 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.294 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 57; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.355 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 3; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.359 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 159; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:35.359 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //ul[@class = 'dropdown-menu']//a[text()='Main Library'] 
+[[34mINFO [0;39m] [] 20:18:35.378 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 15; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.398 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.448 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 40; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.490 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 8; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.495 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 111; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:35.495 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select region']//button 
+[[34mINFO [0;39m] [] 20:18:35.513 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 13; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.522 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.567 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 35; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.613 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.617 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 100; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:35.617 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //ul[@class = 'dropdown-menu']//a[text()='USA'] 
+[[34mINFO [0;39m] [] 20:18:35.657 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.687 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.711 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.765 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 2; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.769 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 108; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:35.770 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //dropdown[@title='select location']//button 
+[[34mINFO [0;39m] [] 20:18:35.785 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.793 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.834 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 31; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.875 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.879 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 90; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:35.879 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.xpath: //ul[@class = 'dropdown-menu']//a[text()='Gulf of Mexico'] 
+[[34mINFO [0;39m] [] 20:18:35.894 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.934 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:35.995 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 51; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:36.038 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:36.041 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 144; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:36.055 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:36.055 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__title-input 
+[[34mINFO [0;39m] [] 20:18:36.076 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 16; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:36.107 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__title-input 
+[[34mINFO [0;39m] [] 20:18:36.127 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:36.147 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__title-input 
+[[34mINFO [0;39m] [] 20:18:36.152 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 1; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:36.246 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 4; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:36.250 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 199; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:36.261 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:36.261 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__description-input 
+[[34mINFO [0;39m] [] 20:18:36.277 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:36.290 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__description-input 
+[[34mINFO [0;39m] [] 20:18:36.300 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:36.317 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__description-input 
+[[34mINFO [0;39m] [] 20:18:36.328 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:36.411 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 4; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:36.415 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 160; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:36.425 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:36.425 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__create-button 
+[[34mINFO [0;39m] [] 20:18:36.441 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 13; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:36.454 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__create-button 
+[[34mINFO [0;39m] [] 20:18:36.467 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:36.481 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 51; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:36.482 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__create-button 
+[[34mINFO [0;39m] [] 20:18:36.492 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:36.646 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 50; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[34mINFO [0;39m] [] 20:18:36.651 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 231; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[34mINFO [0;39m] [] 20:18:36.679 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[39mDEBUG[0;39m] [] 20:18:36.680 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: save 
+[[34mINFO [0;39m] [] 20:18:36.715 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[39mDEBUG[0;39m] [] 20:18:36.735 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: save 
+[[34mINFO [0;39m] [] 20:18:36.755 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[34mINFO [0;39m] [] 20:18:36.766 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 85; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[39mDEBUG[0;39m] [] 20:18:36.766 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: save 
+[[34mINFO [0;39m] [] 20:18:36.788 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 21; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[34mINFO [0;39m] [] 20:18:36.854 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 17; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[34mINFO [0;39m] [] 20:18:36.859 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 185; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[39mDEBUG[0;39m] [] 20:18:36.878 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.cssSelector: .modal-content
+[[34mINFO [0;39m] [] 20:18:36.894 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 12; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[34mINFO [0;39m] [] 20:18:36.940 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[39mDEBUG[0;39m] [] 20:18:36.940 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-title 
+[[34mINFO [0;39m] [] 20:18:36.955 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 11; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[39mDEBUG[0;39m] [] 20:18:36.967 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-title 
+[[34mINFO [0;39m] [] 20:18:36.977 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[34mINFO [0;39m] [] 20:18:37.005 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 9; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[34mINFO [0;39m] [] 20:18:37.009 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - get_Text Execution_Time(ms):; 74; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[34mINFO [0;39m] [] 20:18:37.025 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[39mDEBUG[0;39m] [] 20:18:37.025 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-body 
+[[34mINFO [0;39m] [] 20:18:37.040 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 11; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[39mDEBUG[0;39m] [] 20:18:37.052 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-body 
+[[34mINFO [0;39m] [] 20:18:37.062 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[34mINFO [0;39m] [] 20:18:37.087 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[34mINFO [0;39m] [] 20:18:37.092 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - get_Text Execution_Time(ms):; 70; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[34mINFO [0;39m] [] 20:18:37.093 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.c.ModalWindow[0;39m - Close modal window by Ok button
+[[34mINFO [0;39m] [] 20:18:37.102 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[39mDEBUG[0;39m] [] 20:18:37.102 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-footer .ok 
+[[34mINFO [0;39m] [] 20:18:37.118 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 13; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[39mDEBUG[0;39m] [] 20:18:37.131 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-footer .ok 
+[[34mINFO [0;39m] [] 20:18:37.140 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[34mINFO [0;39m] [] 20:18:37.153 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 46; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[39mDEBUG[0;39m] [] 20:18:37.153 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-footer .ok 
+[[34mINFO [0;39m] [] 20:18:37.163 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[34mINFO [0;39m] [] 20:18:37.217 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 3; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[34mINFO [0;39m] [] 20:18:37.220 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 124; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[39mDEBUG[0;39m] [] 20:18:37.221 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 20:18:37.659 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[39mDEBUG[0;39m] [] 20:18:37.659 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: fa-home 
+[[34mINFO [0;39m] [] 20:18:37.699 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[39mDEBUG[0;39m] [] 20:18:37.719 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: fa-home 
+[[34mINFO [0;39m] [] 20:18:37.749 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[34mINFO [0;39m] [] 20:18:37.779 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 110; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[39mDEBUG[0;39m] [] 20:18:37.779 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: fa-home 
+[[34mINFO [0;39m] [] 20:18:37.799 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/project/a7a74033-b903-4fba-9e1d-40917c1f01ae/questionnaire;
+[[34mINFO [0;39m] [] 20:18:37.902 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 17; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:37.907 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 273; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:37.911 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: label.filter[for='all-projects'] 
+[[34mINFO [0;39m] [] 20:18:37.932 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 17; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:37.972 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:38.052 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 70; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:38.139 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:38.142 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 207; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:38.142 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:18:38.176 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 24; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:38.690 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:18:38.710 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:39.016 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: label.filter[for='in-progress'] 
+[[34mINFO [0;39m] [] 20:18:39.046 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:39.076 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:39.136 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 50; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:39.199 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 8; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:39.202 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 153; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:39.202 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:18:39.213 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 7; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:39.468 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:18:39.490 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 1; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:39.750 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: label.filter[for='completed'] 
+[[34mINFO [0;39m] [] 20:18:39.780 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:39.810 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:39.879 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 59; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:39.939 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:18:39.944 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 159; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:18:39.944 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:18:39.977 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 23; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:03.931 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:19:03.971 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 30; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:04.041 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 20:19:04.071 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:04.071 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: system-icons 
+[[34mINFO [0;39m] [] 20:19:04.101 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:04.101 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__title-input 
+[[34mINFO [0;39m] [] 20:19:04.131 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:04.131 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__description-input 
+[[34mINFO [0;39m] [] 20:19:04.161 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:04.161 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__create-button 
+[[34mINFO [0;39m] [] 20:19:04.191 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:11.641 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: label.filter[for='all-projects'] 
+[[34mINFO [0;39m] [] 20:19:11.711 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 60; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:19:11.763 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 41; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:19:11.813 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 40; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:19:11.888 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 22; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:19:11.906 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 177; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:11.927 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:19:11.969 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 32; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:12.542 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 20:19:12.562 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:12.562 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: system-icons 
+[[34mINFO [0;39m] [] 20:19:12.582 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:12.582 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__title-input 
+[[34mINFO [0;39m] [] 20:19:12.602 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:12.602 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__description-input 
+[[34mINFO [0;39m] [] 20:19:12.622 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:12.622 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__create-button 
+[[34mINFO [0;39m] [] 20:19:12.642 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:33.470 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:19:33.531 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 41; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:33.881 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 20:19:33.901 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:33.901 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: system-icons 
+[[34mINFO [0;39m] [] 20:19:33.921 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:33.921 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__title-input 
+[[34mINFO [0;39m] [] 20:19:33.941 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:33.941 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__description-input 
+[[34mINFO [0;39m] [] 20:19:33.961 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:19:33.961 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__create-button 
+[[34mINFO [0;39m] [] 20:19:33.981 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:03.068 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:20:03.098 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:17.972 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:20:18.041 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 57; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:18.061 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:20:18.081 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:19.976 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:20:19.996 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:20.296 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:20:20.326 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:22.170 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:20:22.190 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:22.993 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:20:23.013 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:24.803 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:20:24.823 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:25.103 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:20:25.123 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:26.973 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:20:27.003 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:27.293 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 20:20:27.323 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:27.323 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: system-icons 
+[[34mINFO [0;39m] [] 20:20:27.353 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:27.353 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__title-input 
+[[34mINFO [0;39m] [] 20:20:27.383 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:27.383 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__description-input 
+[[34mINFO [0;39m] [] 20:20:27.389 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 3; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:27.390 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__create-button 
+[[34mINFO [0;39m] [] 20:20:27.429 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 29; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:20:34.753 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 50; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:20:34.823 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 60; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:20:34.897 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 22; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:20:34.907 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 215; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:34.930 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:20:34.971 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 25; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:37.034 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.xpath: //ul[@class='projects-list']/li
+[[34mINFO [0;39m] [] 20:20:37.054 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 10; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:37.337 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 20:20:37.367 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:37.367 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: system-icons 
+[[34mINFO [0;39m] [] 20:20:37.381 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 11; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:37.382 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__title-input 
+[[34mINFO [0;39m] [] 20:20:37.417 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 25; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:37.417 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__description-input 
+[[34mINFO [0;39m] [] 20:20:37.447 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:20:37.447 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: new-project__create-button 
+[[34mINFO [0;39m] [] 20:20:37.477 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://localhost:8081/#!/dashboard;
+[[34mINFO [0;39m] [] 20:21:01.875 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 19; Page_URL:; http://localhost:8081/#!/dashboard;
+[[39mDEBUG[0;39m] [] 20:21:01.876 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: delete 
+[[34mINFO [0;39m] [] 20:21:01.897 [TestCaseId:] [Scenario:
+                Create a new project, check its status and presence in Recents] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 17; Page_URL:; http://localhost:8081/#!/dashboard;

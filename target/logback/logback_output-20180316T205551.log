@@ -1,0 +1,18 @@
+[[39mDEBUG[0;39m] [] 20:56:07.642 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Opening url: /
+[[34mINFO [0;39m] [] 20:56:07.696 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Open_Page Execution_Time(ms):; 44; Page_URL:; /;
+[[39mDEBUG[0;39m] [] 20:56:31.568 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Driver close
+[[34mINFO [0;39m] [] 20:56:33.930 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Driver_Close Execution_Time(ms):; 2362; Page_URL:; ;
+[[39mDEBUG[0;39m] [] 20:56:37.890 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Opening url: /
+[[34mINFO [0;39m] [] 20:56:37.920 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Open_Page Execution_Time(ms):; 30; Page_URL:; /;
+[[39mDEBUG[0;39m] [] 20:56:37.930 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Driver close
+[[34mINFO [0;39m] [] 20:56:37.940 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Driver_Close Execution_Time(ms):; 10; Page_URL:; ;
+[[39mDEBUG[0;39m] [] 20:56:37.960 [TestCaseId:] [Scenario:
+                ] [36mo.a.q.c.g.s.w.WrappedWebdriver[0;39m - Driver quit

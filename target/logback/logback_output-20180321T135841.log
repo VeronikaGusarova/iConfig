@@ -1,0 +1,352 @@
+[[34mINFO [0;39m] [] 13:58:47.522 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Open login page
+[[39mDEBUG[0;39m] [] 13:58:47.522 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Opening url: http://10.66.131.170:1441/
+[[39mDEBUG[0;39m] [] 13:58:48.972 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 13:58:49.442 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Open_Page Execution_Time(ms):; 1920; Page_URL:; http://10.66.131.170:1441/;
+[[34mINFO [0;39m] [] 13:58:49.442 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Set login as admin in SingIn form
+[[34mINFO [0;39m] [] 13:58:49.492 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:58:49.492 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 13:58:49.522 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:58:49.542 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 13:58:49.562 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:58:49.582 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 13:58:49.587 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 1; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:58:49.646 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 9; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:58:49.651 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 184; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:58:49.664 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 8; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:58:49.664 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 13:58:49.700 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 26; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:58:49.720 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 13:58:49.740 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:58:49.770 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 13:58:49.775 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 1; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:58:49.840 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:58:49.844 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 189; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:58:49.858 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:58:49.859 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:49.879 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 16; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:58:49.907 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:49.927 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:58:49.947 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 79; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:58:49.947 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:49.967 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:58:50.012 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:58:50.016 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 167; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:58:50.016 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 13:58:50.395 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Submit SignIn form
+[[34mINFO [0;39m] [] 13:58:50.425 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 12; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:50.425 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:50.448 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 14; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:50.971 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:51.004 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:51.519 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:51.576 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 37; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:52.077 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:52.127 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:52.622 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:52.672 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:53.172 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:53.222 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:53.730 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:53.780 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:54.280 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:54.300 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:54.809 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:54.859 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:55.359 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:55.392 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 21; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:55.918 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:55.968 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:56.458 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:56.519 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 40; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:57.020 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:57.070 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:57.579 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:57.629 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:57.629 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:58:57.669 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[34mINFO [0;39m] [] 13:58:57.679 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 7244; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:57.679 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 13:58:58.064 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 7659; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:58.064 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[39mDEBUG[0;39m] [] 13:58:58.399 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[39mDEBUG[0;39m] [] 13:58:58.840 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: page-title 
+[[34mINFO [0;39m] [] 13:58:58.870 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[34mINFO [0;39m] [] 13:58:58.940 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:58.940 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 13:58:58.980 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:59.000 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 13:58:59.020 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[34mINFO [0;39m] [] 13:58:59.050 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 100; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:59.050 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: logout-button 
+[[34mINFO [0;39m] [] 13:58:59.070 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[34mINFO [0;39m] [] 13:58:59.144 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[34mINFO [0;39m] [] 13:58:59.150 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 234; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[39mDEBUG[0;39m] [] 13:58:59.151 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .logout-menu li 
+[[34mINFO [0;39m] [] 13:58:59.202 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 41; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[34mINFO [0;39m] [] 13:58:59.232 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[34mINFO [0;39m] [] 13:58:59.272 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 30; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[34mINFO [0;39m] [] 13:58:59.318 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 3; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[34mINFO [0;39m] [] 13:58:59.322 [TestCaseId:] [Scenario:
+                Sign Up with correct credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 116; Page_URL:; http://10.66.131.170:1441/#!/dashboard;
+[[34mINFO [0;39m] [] 13:58:59.326 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Open login page
+[[39mDEBUG[0;39m] [] 13:58:59.326 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Opening url: http://10.66.131.170:1441/
+[[39mDEBUG[0;39m] [] 13:58:59.560 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 13:58:59.996 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Open_Page Execution_Time(ms):; 670; Page_URL:; http://10.66.131.170:1441/;
+[[34mINFO [0;39m] [] 13:58:59.996 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Set login as fake in SingIn form
+[[34mINFO [0;39m] [] 13:59:00.026 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:00.026 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 13:59:00.046 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:00.066 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 13:59:00.086 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:00.126 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: login 
+[[34mINFO [0;39m] [] 13:59:00.133 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 1; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:00.180 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:00.184 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 184; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:00.192 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:00.192 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 13:59:00.202 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 6; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:00.223 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 13:59:00.243 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:00.263 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.name: password 
+[[34mINFO [0;39m] [] 13:59:00.268 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 1; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:00.321 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:00.323 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Send_Keys Execution_Time(ms):; 137; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:00.331 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 4; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:00.332 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:59:00.340 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 6; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:00.353 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:59:00.364 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 8; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:00.375 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 41; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:00.375 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:59:00.384 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 6; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:00.437 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 7; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:00.441 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 113; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:00.441 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 13:59:00.820 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.p.LoginPageObject[0;39m - Submit SignIn form
+[[34mINFO [0;39m] [] 13:59:00.829 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 6; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:00.829 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:59:00.841 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 9; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:00.849 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:59:00.859 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 7; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:00.869 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 37; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:00.869 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: login-button 
+[[34mINFO [0;39m] [] 13:59:00.878 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 6; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:00.893 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[34mINFO [0;39m] [] 13:59:01.304 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 474; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:01.304 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[39mDEBUG[0;39m] [] 13:59:01.684 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.cssSelector: .modal-content
+[[34mINFO [0;39m] [] 13:59:01.714 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:01.744 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:01.744 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-title 
+[[34mINFO [0;39m] [] 13:59:01.774 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:01.794 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-title 
+[[34mINFO [0;39m] [] 13:59:01.814 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:01.864 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:01.874 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - get_Text Execution_Time(ms):; 150; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:01.904 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:01.904 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-body 
+[[34mINFO [0;39m] [] 13:59:01.944 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:01.974 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-body 
+[[34mINFO [0;39m] [] 13:59:02.004 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:02.064 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:02.074 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - get_Text Execution_Time(ms):; 190; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:02.074 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.c.ModalWindow[0;39m - Close modal window by Ok button
+[[34mINFO [0;39m] [] 13:59:02.114 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 30; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:02.114 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-footer .ok 
+[[34mINFO [0;39m] [] 13:59:02.154 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:02.184 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-footer .ok 
+[[34mINFO [0;39m] [] 13:59:02.204 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:02.224 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Element_To_Be_Clickable Execution_Time(ms):; 100; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:02.224 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.cssSelector: .modal-content .modal-footer .ok 
+[[34mINFO [0;39m] [] 13:59:02.244 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:02.294 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 5; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:02.299 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Click Execution_Time(ms):; 220; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:02.300 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.a.p.AllureAttachmentsProvider[0;39m - Attach screenshot to the Allure report
+[[39mDEBUG[0;39m] [] 13:59:02.752 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding elements by: By.className: error-message
+[[34mINFO [0;39m] [] 13:59:02.782 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Elements Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:02.792 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: error-message 
+[[34mINFO [0;39m] [] 13:59:02.822 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:02.882 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:02.882 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: error-message 
+[[34mINFO [0;39m] [] 13:59:02.922 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 30; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:02.932 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Finding element by: By.className: error-message 
+[[34mINFO [0;39m] [] 13:59:02.952 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Find_Element Execution_Time(ms):; 10; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:03.002 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - Wait_For_Page_Update Execution_Time(ms):; 20; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[34mINFO [0;39m] [] 13:59:03.012 [TestCaseId:] [Scenario:
+                Sign Up with fake credentials] [36mo.a.q.c.s.w.WebdriverHelper[0;39m - get_Text Execution_Time(ms):; 150; Page_URL:; http://10.66.131.170:1441/#!/login;
+[[39mDEBUG[0;39m] [] 13:59:03.022 [TestCaseId:] [Scenario:
+                ] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Driver quit
+[[34mINFO [0;39m] [] 13:59:03.990 [TestCaseId:] [Scenario:
+                ] [36mo.a.q.c.s.w.WrappedWebdriver[0;39m - Driver_Quit Execution_Time(ms):; 968; Page_URL:; ;
