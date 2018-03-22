@@ -8,7 +8,7 @@ Feature: Login page.
     Given I open Login page
     When I fill Login and Password fields with correct credentials on Login page
     And I click button 'log in' on Login page
-    Then "Dashboard" page with url "!/dashboard" should be opened
+    Then Page with url "!/dashboard" should be opened
 
   @Smoke @SeverityLevel.CRITICAL
   Scenario: Sign Up with fake credentials

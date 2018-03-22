@@ -10,6 +10,5 @@ Feature: Filtering projects in recents list - smoke test.
   @Smoke @SeverityLevel.CRITICAL
   Scenario: Check project with In Progress status
     Given Page with url "!/dashboard" should be opened
-#    When I create a project with default parameters and title
 
 
