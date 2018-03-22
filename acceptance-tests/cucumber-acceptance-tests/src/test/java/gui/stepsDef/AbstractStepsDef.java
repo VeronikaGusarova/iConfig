@@ -80,10 +80,6 @@ public class AbstractStepsDef {
 
     @Autowired
     @Lazy
-    protected CreateAccountPageObject createAccountPage;
-
-    @Autowired
-    @Lazy
     protected DesignParametersPageObject designParametersPage;
 
     @Autowired

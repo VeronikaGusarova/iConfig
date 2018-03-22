@@ -69,7 +69,7 @@ public class LoginPageObject extends AbstractPageObject {
     public void submit() {
         log.info("Submit SignIn form");
         webdriverHelper.click(buttonSubmit);
-        attachments.attachScreenShot("After submitting SignIn form");
+        //attachments.attachScreenShot("After submitting SignIn form");
     }
 
     /**
@@ -80,7 +80,7 @@ public class LoginPageObject extends AbstractPageObject {
         webdriverHelper.sendKeys(inputLogin, userName);
         webdriverHelper.sendKeys(inputPassword, password);
         webdriverHelper.click(buttonSubmit);
-        attachments.attachScreenShot("After submitting SignIn form with correct creds");
+        //attachments.attachScreenShot("After submitting SignIn form with correct creds");
     }
 
     /**
@@ -93,7 +93,7 @@ public class LoginPageObject extends AbstractPageObject {
         webdriverHelper.sendKeys(inputLogin, fakeUserName);
         webdriverHelper.sendKeys(inputPassword, fakePassword);
         webdriverHelper.click(buttonSubmit);
-        attachments.attachScreenShot("After submitting SignIn form with fake creds");
+        //attachments.attachScreenShot("After submitting SignIn form with fake creds");
     }
 
     /**

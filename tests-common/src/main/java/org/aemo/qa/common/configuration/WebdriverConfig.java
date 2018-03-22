@@ -16,11 +16,11 @@ package org.aemo.qa.common.configuration;
 */
 
 import io.github.bonigarcia.wdm.ChromeDriverManager;
-import io.github.bonigarcia.wdm.FirefoxDriverManager;
+import io.github.bonigarcia.wdm.InternetExplorerDriverManager;
 import org.aemo.qa.common.services.webdriver.WrappedWebdriver;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -33,9 +33,9 @@ import static javaslang.API.Match;
 @Configuration
 public class WebdriverConfig {
     private final String CHROME = "Chrome";
-    private final String FIREFOX = "Firefox";
+    private final String IE = "InternetExplorer";
 
-    @Value("${webdriver.browser:Firefox}")
+    @Value("${webdriver.browser:Chrome}")
     private String browserName;
 
 
@@ -43,13 +43,13 @@ public class WebdriverConfig {
     public WrappedWebdriver webDriver() throws IOException {
         return Match(browserName).of(
                 Case(CHROME::equalsIgnoreCase, this::initChrome),
-                Case(FIREFOX::equalsIgnoreCase, this::initFirefox)
+                Case(IE::equalsIgnoreCase, this::initIe)
         );
     }
 
-    private WrappedWebdriver initFirefox() {
-        FirefoxDriverManager.getInstance().arch32().setup();
-        WebDriver driver = new FirefoxDriver();
+    private WrappedWebdriver initIe() {
+        InternetExplorerDriverManager.getInstance().setup();
+        WebDriver driver = new InternetExplorerDriver();
         driver.manage().window().maximize();
         return new WrappedWebdriver(driver);
     }

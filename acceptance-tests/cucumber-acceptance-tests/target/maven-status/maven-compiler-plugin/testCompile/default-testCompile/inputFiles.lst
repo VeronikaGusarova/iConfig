@@ -1,9 +1,8 @@
-D:\Shevron\chev-fac\at\chev-fac-iconfig-at\acceptance-tests\cucumber-acceptance-tests\src\test\java\gui\configuration\CucumberHooks.java
-D:\Shevron\chev-fac\at\chev-fac-iconfig-at\acceptance-tests\cucumber-acceptance-tests\src\test\java\gui\RunAcceptanceTests.java
-D:\Shevron\chev-fac\at\chev-fac-iconfig-at\acceptance-tests\cucumber-acceptance-tests\src\test\java\gui\stepsDef\CommonStepsDef.java
-D:\Shevron\chev-fac\at\chev-fac-iconfig-at\acceptance-tests\cucumber-acceptance-tests\src\test\java\gui\configuration\AppConfig.java
-D:\Shevron\chev-fac\at\chev-fac-iconfig-at\acceptance-tests\cucumber-acceptance-tests\src\test\java\gui\stepsDef\LoginPageStepsDef.java
-D:\Shevron\chev-fac\at\chev-fac-iconfig-at\acceptance-tests\cucumber-acceptance-tests\src\test\java\gui\stepsDef\TermsAndConditionsStepsDef.java
-D:\Shevron\chev-fac\at\chev-fac-iconfig-at\acceptance-tests\cucumber-acceptance-tests\src\test\java\gui\stepsDef\AbstractStepsDef.java
-D:\Shevron\chev-fac\at\chev-fac-iconfig-at\acceptance-tests\cucumber-acceptance-tests\src\test\java\gui\stepsDef\AccountCreationPageStepsDef.java
-D:\Shevron\chev-fac\at\chev-fac-iconfig-at\acceptance-tests\cucumber-acceptance-tests\src\test\java\gui\stepsDef\PrivacyPolicyStepsDef.java
+C:\Users\Veronika_Tarasova\Documents\GitHub\chev-fac-iconfig-at2\acceptance-tests\cucumber-acceptance-tests\src\test\java\gui\stepsDef\AbstractStepsDef.java
+C:\Users\Veronika_Tarasova\Documents\GitHub\chev-fac-iconfig-at2\acceptance-tests\cucumber-acceptance-tests\src\test\java\gui\configuration\AppConfig.java
+C:\Users\Veronika_Tarasova\Documents\GitHub\chev-fac-iconfig-at2\acceptance-tests\cucumber-acceptance-tests\src\test\java\gui\stepsDef\CommonStepsDef.java
+C:\Users\Veronika_Tarasova\Documents\GitHub\chev-fac-iconfig-at2\acceptance-tests\cucumber-acceptance-tests\src\test\java\gui\stepsDef\DashboardPageStepsDef.java
+C:\Users\Veronika_Tarasova\Documents\GitHub\chev-fac-iconfig-at2\acceptance-tests\cucumber-acceptance-tests\src\test\java\gui\RunAcceptanceTests.java
+C:\Users\Veronika_Tarasova\Documents\GitHub\chev-fac-iconfig-at2\acceptance-tests\cucumber-acceptance-tests\src\test\java\gui\stepsDef\LoginPageStepsDef.java
+C:\Users\Veronika_Tarasova\Documents\GitHub\chev-fac-iconfig-at2\acceptance-tests\cucumber-acceptance-tests\src\test\java\gui\stepsDef\BreadCrumbsPageStepsDef.java
+C:\Users\Veronika_Tarasova\Documents\GitHub\chev-fac-iconfig-at2\acceptance-tests\cucumber-acceptance-tests\src\test\java\gui\configuration\CucumberHooks.java
