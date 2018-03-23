@@ -6,7 +6,7 @@ Feature: Dashboard Page, fields availability - smoke test.
     And I fill Login and Password fields with correct credentials on Login page
     And I click button 'log in' on Login page
 
-  @Smoke @SeverityLevel.CRITICAL
+  @Smoke @SeverityLevel.CRITICAL @UserStoryId("CHEVFAC-778")
   Scenario: Check availability of inputs when creating a new project on Dashboard page
     Given Page with url "!/dashboard" should be opened
     # following availability statuses can be used:

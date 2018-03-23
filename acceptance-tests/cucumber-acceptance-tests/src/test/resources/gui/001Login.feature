@@ -3,7 +3,7 @@ Feature: Login page.
   Dashboard page should be opened after sign up;
   Error should be shown in case of incorrect creds
 
-  @Smoke @SeverityLevel.CRITICAL
+  @Smoke @SeverityLevel.CRITICAL @UserStoryId("CHEVFAC-777")
   Scenario: Sign Up with correct credentials
     Given I open Login page
     When I fill Login and Password fields with correct credentials on Login page

@@ -63,12 +63,12 @@ public class CucumberHooks {
     }
 
     public void setIdIntoLog(Scenario scenario) {
-        final Pattern testCaseIdPattern = Pattern.compile("@TestCaseId\\(\"+?([^\"]+)\"+?\\)");
+        final Pattern userStoryIdPattern = Pattern.compile("@UserStoryId\\(\"+?([^\"]+)\"+?\\)");
         for (String tag : scenario.getSourceTagNames()) {
-            Matcher matcher = testCaseIdPattern.matcher(tag);
+            Matcher matcher = userStoryIdPattern.matcher(tag);
             if (matcher.matches()) {
-                final String testCaseId = matcher.group(1);
-                MDC.put("testCaseId", testCaseId);
+                final String userStoryId = matcher.group(1);
+                MDC.put("userStoryId", userStoryId);
             }
         }
     }

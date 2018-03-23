@@ -7,6 +7,7 @@ public class BreadCrumbsPageStepsDef extends AbstractStepsDef {
     @And("^I navigate to Dashboard page by 'Home' icon$")
     public void iNavigateToDashboardPageByHomeIcon() throws Throwable {
         breadCrumbsPage.clickHomeButton();
+        webdriverHelper.waitForPageUpdated();
     }
 
     @And("^I remove project on Breadcrambs panel$")
