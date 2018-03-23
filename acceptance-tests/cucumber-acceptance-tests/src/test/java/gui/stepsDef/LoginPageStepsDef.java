@@ -23,6 +23,7 @@ public class LoginPageStepsDef extends AbstractStepsDef {
     @And("^I click button 'log in' on Login page$")
     public void iClickButtonLogInOnLoginPage() {
         loginPage.submit();
+        webdriverHelper.waitForPageUpdated();
     }
 
     @When("^I fill Login and Password fields with fake credentials on Login page$")

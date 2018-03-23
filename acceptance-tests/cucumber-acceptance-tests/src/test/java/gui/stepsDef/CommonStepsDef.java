@@ -5,6 +5,7 @@ import cucumber.api.java.After;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
+import org.junit.Assert;
 
 public class CommonStepsDef extends AbstractStepsDef {
     /**
@@ -33,9 +34,9 @@ public class CommonStepsDef extends AbstractStepsDef {
         dashboardPage.logout();
     }
 
-    @Then("^Page with url \"([^\"]*)\" should be opened$")
+    @Then("^Page[s]? with url \"([^\"]*)\" should be opened$")
     public void pageShouldBeOpened(String pageUrl) throws Throwable {
-        page.isOpened(pageUrl);
+        Assert.assertTrue(page.isOpened(pageUrl));
     }
 
 //    @After("@createProject")
