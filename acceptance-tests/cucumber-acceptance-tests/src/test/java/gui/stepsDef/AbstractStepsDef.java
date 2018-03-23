@@ -87,4 +87,6 @@ public class AbstractStepsDef {
     protected BreadCrumbsPageObject breadCrumbsPage;
 
     protected static String projectId;
+
+//    protected ProjectObject project;
 }

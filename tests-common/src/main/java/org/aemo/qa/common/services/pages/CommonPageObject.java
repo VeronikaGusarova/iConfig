@@ -23,7 +23,8 @@ public class CommonPageObject extends AbstractPageObject{
 //        assertThat(labelPageTitle.getText()).isEqualTo(pageName);
 //    }
 
-    public Boolean isOpened(String pageUrl) throws URISyntaxException {
+    public Boolean isOpened(String pageUrl) throws URISyntaxException, InterruptedException {
+        Thread.sleep(500);
         webdriverHelper.waitForPageUpdated();
         URI siteUri = new URI(driver.getCurrentUrl());
         return siteUri.getHost().equals(siteHost)

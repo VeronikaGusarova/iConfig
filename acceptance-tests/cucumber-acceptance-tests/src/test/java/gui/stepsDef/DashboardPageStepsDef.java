@@ -33,6 +33,7 @@ public class DashboardPageStepsDef extends AbstractStepsDef {
     @And("^I click 'create project' button$")
     public void iClickCreateProjectButton() throws Throwable {
         dashboardPage.clickCreateProjectButton();
+        webdriverHelper.waitForPageUpdated();
     }
 
     @When("^I click 'Save Project' button$")
@@ -109,5 +110,11 @@ public class DashboardPageStepsDef extends AbstractStepsDef {
     @When("^I open project \"([^\"]*)\" on Dashboard page$")
     public void iOpenProjectOnDashboardPage(String projectName) throws Throwable {
         dashboardPage.openProjectByName(projectName+projectId);
+    }
+
+    @When("^I create project with name \"([^\"]*)\" and default parameters on Dashboard Page$")
+    public void iCreateProjectWithNameAndDefaultParametersOnDashboardPage(String projectName) throws Throwable {
+        //project = new ProjectObject(projectName);
+
     }
 }
