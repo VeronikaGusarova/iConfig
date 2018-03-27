@@ -1,8 +1,0 @@
-gui\configuration\AppConfig.class
-gui\stepsDef\BreadCrumbsPageStepsDef.class
-gui\stepsDef\CommonStepsDef.class
-gui\RunAcceptanceTests.class
-gui\configuration\CucumberHooks.class
-gui\stepsDef\DashboardPageStepsDef.class
-gui\stepsDef\AbstractStepsDef.class
-gui\stepsDef\LoginPageStepsDef.class
