@@ -83,7 +83,7 @@ public class DashboardPageObject extends AbstractPageObject {
             }
             default: throw new UnsupportedOperationException("Status '{$status}' has not been implemented");
         }
-        driver.findElement(By.cssSelector("label.filter[for='"+locator+"']")).click();
+        webdriverHelper.click(driver.findElement(By.cssSelector("label.filter[for='"+locator+"']")));
     }
 
     public Boolean isProjectInRecents(String projectName, ProjectStatus status) {

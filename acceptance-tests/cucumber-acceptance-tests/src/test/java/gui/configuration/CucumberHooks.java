@@ -25,6 +25,7 @@ import org.slf4j.MDC;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Lazy;
 
+import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -36,6 +37,7 @@ public class CucumberHooks {
     @Autowired
     @Lazy
     protected WrappedWebdriver driver;
+    protected int timeout=30;
 
     private static final Logger LOGGER = LoggerFactory.getLogger(CucumberHooks.class);
 
@@ -43,6 +45,16 @@ public class CucumberHooks {
     public void setScenarioInfoIntoLog(Scenario scenario) {
         setIdIntoLog(scenario);
         setScenarioName(scenario);
+        try
+        {
+            driver.manage().timeouts().setScriptTimeout(timeout, TimeUnit.SECONDS);
+            driver.manage().timeouts().pageLoadTimeout(timeout, TimeUnit.SECONDS);
+        }
+        catch (Exception e)
+        {
+
+        }
+
     }
 
     @After

@@ -33,7 +33,7 @@ import static javaslang.API.Match;
 @Configuration
 public class WebdriverConfig {
     private final String CHROME = "Chrome";
-    private final String IE = "InternetExplorer";
+    private final String IE = "ie";
 
     @Value("${webdriver.browser:Chrome}")
     private String browserName;
@@ -49,6 +49,9 @@ public class WebdriverConfig {
 
     private WrappedWebdriver initIe() {
         InternetExplorerDriverManager.getInstance().setup();
+//        InternetExplorerOptions options = new InternetExplorerOptions();
+//        options.destructivelyEnsureCleanSession();
+
         WebDriver driver = new InternetExplorerDriver();
         driver.manage().window().maximize();
         return new WrappedWebdriver(driver);

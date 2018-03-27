@@ -91,10 +91,9 @@ public class WebdriverHelper {
         try {
             Wait<WebDriver> wait = new WebDriverWait(driver.getWrappedDriver(), timeout / 7000, 20);
             wait.until(isAJAXCompleted);
-            wait.until( webDriver -> ((JavascriptExecutor) webDriver).executeScript("return document.readyState").equals("complete"));
+      //      wait.until( webDriver -> ((JavascriptExecutor) webDriver).executeScript("return document.readyState").equals("complete"));
 //            wait.until(isAnimated);
-            driver.manage().timeouts().setScriptTimeout(timeout, TimeUnit.MILLISECONDS);
-            driver.manage().timeouts().pageLoadTimeout(timeout, TimeUnit.MILLISECONDS);
+
         } finally {
             log.info(LOG_EXECUTION_TIME, "Wait_For_Page_Update", getExecutionTime(startTime), driver.getCurrentUrl());
         }
